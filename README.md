@@ -1,6 +1,8 @@
 
 
 # **RAG-Based Financial Chatbot**
+![image](https://github.com/user-attachments/assets/5ead7884-a0a9-4998-b460-ad92d011e183)
+
 
 ## Overview  
 This repository contains the implementation of a **Retrieval-Augmented Generation (RAG)**-based financial chatbot powered by **ChatGPT-3.5 Turbo**. The chatbot is designed to answer user queries based on financial reports (e.g., quarterly, annual reports) with high contextual relevance, accuracy, and actionable insights. It integrates advanced embedding models (**OpenAI ADA** and **MiniLM**) for retrieval and uses **ChatGPT-3.5 Turbo** to generate coherent, grounded responses.
@@ -122,11 +124,6 @@ Contributions are welcome!
    git push origin feature/your-feature
    ```  
 5. Submit a pull request.
-
----
-
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
