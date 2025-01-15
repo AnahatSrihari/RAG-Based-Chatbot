@@ -1,7 +1,13 @@
 
 
 # **RAG-Based Financial Chatbot**
+Screenshots
+
 ![image](https://github.com/user-attachments/assets/5ead7884-a0a9-4998-b460-ad92d011e183)
+
+
+![imag1e](https://github.com/user-attachments/assets/01c4ea08-15c8-432a-a09c-6af235b42eb1)
+
 
 
 ## Overview  
@@ -15,7 +21,6 @@ This repository contains the implementation of a **Retrieval-Augmented Generatio
 - **Advanced Embeddings**: Supports both **OpenAI ADA** and **MiniLM** for semantic data representation.  
 - **Real-Time Query Handling**: Efficiently processes queries with token-aware response generation.  
 - **Interactive Interface**: User-friendly interaction via **Gradio UI**.  
-
 ---
 
 ## **Project Structure**
